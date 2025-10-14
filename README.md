@@ -7,7 +7,7 @@
 
 *Trance Choir* is a project of adoration of the Mystery through euro-trance music <small><sup>[A1]</sup></small>.
 
-DJs usually perform before a thirsty crowd expecting them to pump the party. Ultra Voye wonders whether DJs also need a break — a space of their own to speak inwardly, and to find God within their music.
+DJs usually perform before a thirsty crowd expecting them to pump the party <small><sup>[A2]</sup></small>. Ultra Voye wonders whether DJs also need a break — a space of their own to speak inwardly, and to find God within their music.
 
 Seek the Mystery, speak to It and play for God. Go on retreat, grind your soul and lift it up.
 
@@ -20,6 +20,14 @@ Seek the Mystery, speak to It and play for God. Go on retreat, grind your soul a
 
 <small> [A1] *The project’s musical scope is not limited to euro-trance; other close genres may also serve as vehicles of spiritual exploration.*
 </small>
+
+<small> [A2] Hey dj pump this party! TO-DO: include reference and change audio
+</small>
+
+<video controls width="300" height="30">
+  <source src="sound/sound.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
