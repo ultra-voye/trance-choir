@@ -5,9 +5,9 @@
 
 ## A. Introduction
 
-*Trance Choir* is a project of adoration of the Mystery through euro-trance music <small><sup>[A1]</sup></small>.
+*Trance Choir* is a project of introspection for DJs — an open question about how they relate to the Mystery. A gesture of adoration through euro-trance music <small><sup>[Note 1]</sup></small>.
 
-DJs usually perform before a thirsty crowd expecting them to pump the party <small><sup>[A2]</sup></small>. Ultra Voye wonders whether DJs also need a break — a space of their own to speak inwardly, and to find God within their music.
+DJs usually perform before a thirsty crowd, expecting them to pump the party [1]. Ultra Voye wonders whether DJs also need a break — a space of their own to speak inwardly, and to find God within their music.
 
 Seek the Mystery, speak to It and play for God. Go on retreat, grind your soul and lift it up.
 
@@ -15,19 +15,11 @@ Seek the Mystery, speak to It and play for God. Go on retreat, grind your soul a
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px;">
   <img src="imgs/angelical_choir.jpg" alt="Angelical Choir" width="200" /><br>
-  <em>Figure A.1. <a href="https://historia-arte.com/obras/la-cancion-de-los-angeles">“Song of the Angels”</a> [1] by Bouguereau — A group of angels playing music for the Christ Child and His Mother.</em> 
+  <em>Figure A.1. <a href="https://historia-arte.com/obras/la-cancion-de-los-angeles">“Song of the Angels”</a> [2] by Bouguereau — A group of angels playing music for the Christ Child and His Mother.</em> 
 </p>
 
-<small> [A1] *The project’s musical scope is not limited to euro-trance; other close genres may also serve as vehicles of spiritual exploration.*
+<small> [Note 1] *The project’s musical scope is not limited to euro-trance; other close genres may also serve as vehicles of spiritual exploration.*
 </small>
-
-<small> [A2] Hey dj pump this party! TO-DO: include reference and change audio
-</small>
-
-<video controls width="300" height="30">
-  <source src="sound/sound.mp3" type="audio/mpeg">
-  Your browser does not support the video tag.
-</video>
 
 ---
 
@@ -51,7 +43,7 @@ Seek the Mystery, speak to It and play for God. Go on retreat, grind your soul a
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px;">
   <img src="imgs/yung_beef_hakim_metalic_cage.jpg" alt="Metalic Cage" width="500" /><br>
-  <em>Figure D.2.1. <a href="https://www.elperiodico.com/es/ocio-y-cultura/20180531/cronica-yung-beef-primavera-sound-6849964"> "Yung Beef unleashes the demons at Primavera Sound”</a> [2] Yung Beef and Hakim performing on top of a metallic cage (with Brat Star DJing inside it).  
+  <em>Figure D.2.1. <a href="https://www.elperiodico.com/es/ocio-y-cultura/20180531/cronica-yung-beef-primavera-sound-6849964"> "Yung Beef unleashes the demons at Primavera Sound”</a> [3] Yung Beef and Hakim performing on top of a metallic cage (with Brat Star DJing inside it).  
   Primavera Sound, Barcelona (2018).</em>
 </p>
 
@@ -65,9 +57,11 @@ Seek the Mystery, speak to It and play for God. Go on retreat, grind your soul a
 ---
 ## Bibliography
 
-- [1] [*Song of the Angels* — historia-arte.com](https://historia-arte.com/obras/la-cancion-de-los-angeles)
+- [1] [*BCM #02* by Baby Pantera — Sound Cloud](https://on.soundcloud.com/O7T9KOe88rW7jnqm1O)
 
-- [2] [*Yung Beef unleashes the demons at Primavera Sound* — elperiodico.com](https://www.elperiodico.com/es/ocio-y-cultura/20180531/cronica-yung-beef-primavera-sound-6849964)
+- [2] [*Song of the Angels* — historia-arte.com](https://historia-arte.com/obras/la-cancion-de-los-angeles)
+
+- [3] [*Yung Beef unleashes the demons at Primavera Sound* — elperiodico.com](https://www.elperiodico.com/es/ocio-y-cultura/20180531/cronica-yung-beef-primavera-sound-6849964)
 
 ---
 
