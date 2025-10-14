@@ -1,5 +1,6 @@
 # Trance Choir
 **Concepts behind the *Trance Choir* project by Ultra Voye.**
+Work in progress
 
 ---
 
@@ -24,6 +25,39 @@ Seek the Mystery, speak to It and play for God. Go on retreat, grind your soul a
 ---
 
 ## B. Concept
+
+**From personal experience to materiality**
+
+### Experience
+
+**ACT I: POV. First exposure to BCM and euro-trance**
+
+It’s December 2024. I’ve been having a rough few months. It’s night-time, and we’re heading to a club near Gran Vía. Young, joyful people gather by the entrance. I’m with [@jorgeselfother](https://github.com/jorgeselfother). 
+
+We’re going to BCM V [3]. Just a few hours ago, I didn’t even know who Baby Pantera was [4]. We walk down the stairs. It’s the first turn of the set.
+
+What is this music? It’s beautiful, it’s violent. The beats are frenetic, overwhelming. It’s condensed euphoria. It’s euro-trance.
+
+Months later, after countless hours on SoundCloud playlists, I realized that this had been the sound of my own purgatory — the redemption of Ultra Voye. Music for the demons of the desert to speak. Music for the God in my heart to forgive.
+
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px;">
+  <img src="imgs/selfother.jpg" alt="BCM V Entrance" width="200" /><br>
+  <em>Figure B.1. Entrance to BCM V — <a href="https://github.com/jorgeselfother">@jorgeselfother</a> texting a friend to meet her later that night on the dance floor. Hands on his phone, ticket held between his lips. No time to waste.</em>
+</p>
+
+**ACT II: Why do I keep coming to the club?** 
+TO-DO
+
+**ACT III: I look for God** 
+TO-DO
+
+**ACT IV: Wait — all these DJs…** 
+TO-DO
+
+### Materiality
+TO-DO
+
 ---
 ## C. Method
 
@@ -43,7 +77,7 @@ Seek the Mystery, speak to It and play for God. Go on retreat, grind your soul a
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px;">
   <img src="imgs/yung_beef_hakim_metalic_cage.jpg" alt="Metalic Cage" width="500" /><br>
-  <em>Figure D.2.1. <a href="https://www.elperiodico.com/es/ocio-y-cultura/20180531/cronica-yung-beef-primavera-sound-6849964"> "Yung Beef unleashes the demons at Primavera Sound”</a> [3] Yung Beef and Hakim performing on top of a metallic cage (with Brat Star DJing inside it).  
+  <em>Figure D.2.1. <a href="https://www.elperiodico.com/es/ocio-y-cultura/20180531/cronica-yung-beef-primavera-sound-6849964"> "Yung Beef unleashes the demons at Primavera Sound”</a> [5] Yung Beef and Hakim performing on top of a metallic cage (with Brat Star DJing inside it).  
   Primavera Sound, Barcelona (2018).</em>
 </p>
 
@@ -61,7 +95,11 @@ Seek the Mystery, speak to It and play for God. Go on retreat, grind your soul a
 
 - [2] [*Song of the Angels* — historia-arte.com](https://historia-arte.com/obras/la-cancion-de-los-angeles)
 
-- [3] [*Yung Beef unleashes the demons at Primavera Sound* — elperiodico.com](https://www.elperiodico.com/es/ocio-y-cultura/20180531/cronica-yung-beef-primavera-sound-6849964)
+- [2] [*Baby Club Music (BCM) Party* — instagram.com](https://www.instagram.com/bcmparty/)
+
+- [4] [Baby Pantera — Sound Cloud](https://soundcloud.com/baby_pantera)
+
+- [5] [*Yung Beef unleashes the demons at Primavera Sound* — elperiodico.com](https://www.elperiodico.com/es/ocio-y-cultura/20180531/cronica-yung-beef-primavera-sound-6849964)
 
 ---
 
