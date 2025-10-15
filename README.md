@@ -56,14 +56,32 @@ TO-DO
 TO-DO
 
 ### Materiality
-TO-DO
+
+**Avoiding egos and demonds:**
 
 ---
 ## C. Method
 
 **TO-DO**: Might need to move-up references to open and discuss the methodology better.
 
-**Avoiding egos and demonds:**
+
+**Model 0 — Prototype**
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px;">
+  <img src="imgs/model_v0_out.jpg" alt="Model V0 Out" height="200" style="object-fit: cover;"/>
+  <img src="imgs/model_v0_in.jpg" alt="Model V0 In" height="200" style="object-fit: cover;"/>
+  <img src="imgs/model_v0.jpg" alt="Model V0" height="200" style="object-fit: cover;"/><br>
+  <em>Figure B.2. Model 0 prototype: a cubicle. No geometric distractions. The entrance includes a stair, humbling the spirit of the DJ who must walk through the narrow passage. Light descends from an elevated place the DJ must transcend through their music. Shadows are left behind. Time for redemption.</em>
+</p>
+
+**Model 0 — Review**
+<p align="center" style="margin-top: 50px; margin-bottom: 50px;">
+  <img src="imgs/model_v0_review.jpg" alt="Model V0 Review" height="200" style="object-fit: cover;"/><br>
+  <em>Figure B.3. Model 0 review. Light comes from above; the sound system is placed behind the DJ. The orientation is not bidirectional — light and sound should be aligned.</em>
+</p>
+
+WIP
+
 
 ---
 ## D. References
