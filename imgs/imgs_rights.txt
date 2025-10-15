@@ -1,0 +1,3 @@
+img_name,contact_to_ask,platform,date,confirmation
+peter_zumthor_august_fischer_exterior.jpg,fischerfoto,instagram,15/10/2025,N/A
+peter_zumthor_august_fischer_interior.jpg,fischerfoto,instagram,15/10/2025,N/A

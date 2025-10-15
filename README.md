@@ -1,6 +1,6 @@
 # Trance Choir
-**Concepts behind the *Trance Choir* project by Ultra Voye.**
-Work in progress
+**Concepts behind the *Trance Choir* project by Ultra Voye**
+DJ booth installation — work in progress.
 
 ---
 
@@ -70,6 +70,15 @@ TO-DO
 
 ### D.1. Architectural References
 
+<p align="center" style="margin-top: 50px; margin-bottom: 50px;">
+  <img src="imgs/peter_zumthor_august_fischer_exterior.jpg" alt="Shelter Exterior" height="300" style="object-fit: cover;"/>
+  <img src="imgs/peter_zumthor_august_fischer_interior.jpg" alt="Shelter Interior" height="300" style="object-fit: cover;"/><br>
+  <em>Figure D.1.1. <a href="https://divisare.com/projects/397572-peter-zumthor-august-fischer-shelter-for-roman-ruins">Shelter for Roman Ruins</a>. Design by Peter Zumthor, photos by August Fischer [5]. Floating stairs both at the entrance of the shelter (left) and in the interior (right). The use of robust materials (left) and intelligent structural design (right) convey a levitating sensation.</em>
+</p>
+
+
+
+
 ### D.2. Aesthetic References
 
 **Egos and demonds:** (The title by elperiodico is gold: Yung Beef endemonia el Primavera Sound) TO-DO.
@@ -77,7 +86,7 @@ TO-DO
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px;">
   <img src="imgs/yung_beef_hakim_metalic_cage.jpg" alt="Metalic Cage" width="500" /><br>
-  <em>Figure D.2.1. <a href="https://www.elperiodico.com/es/ocio-y-cultura/20180531/cronica-yung-beef-primavera-sound-6849964"> "Yung Beef unleashes the demons at Primavera Sound”</a> [5] Yung Beef and Hakim performing on top of a metallic cage (with Brat Star DJing inside it).  
+  <em>Figure D.2.1. <a href="https://www.elperiodico.com/es/ocio-y-cultura/20180531/cronica-yung-beef-primavera-sound-6849964"> "Yung Beef unleashes the demons at Primavera Sound”</a> [6] Yung Beef and Hakim performing on top of a metallic cage (with Brat Star DJing inside it).  
   Primavera Sound, Barcelona (2018).</em>
 </p>
 
@@ -97,9 +106,12 @@ TO-DO
 
 - [2] [*Baby Club Music (BCM) Party* — instagram.com](https://www.instagram.com/bcmparty/)
 
-- [4] [Baby Pantera — Sound Cloud](https://soundcloud.com/baby_pantera)
+- [4] [*Baby Pantera* — Sound Cloud](https://soundcloud.com/baby_pantera)
 
-- [5] [*Yung Beef unleashes the demons at Primavera Sound* — elperiodico.com](https://www.elperiodico.com/es/ocio-y-cultura/20180531/cronica-yung-beef-primavera-sound-6849964)
+- [5] [*Shelter for Roman Ruin* — divisare.com](https://divisare.com/projects/397572-peter-zumthor-august-fischer-shelter-for-roman-ruins)
+
+
+- [6] [*Yung Beef unleashes the demons at Primavera Sound* — elperiodico.com](https://www.elperiodico.com/es/ocio-y-cultura/20180531/cronica-yung-beef-primavera-sound-6849964)
 
 ---
 
