@@ -108,6 +108,17 @@ WIP
   Primavera Sound, Barcelona (2018).</em>
 </p>
 
+**Fire and Light:**
+
+
+<p align="center" style="margin-top: 50px; margin-bottom: 50px;">
+  <img src="imgs/burning_bush.gif" alt="Burning Bush" width="500" /><br>
+  <em>Figure D.2.2. <a href="https://www.imdb.com/es-es/title/tt0120794/">“The Prince of Egypt”</a> [7]. The burning bush is how God speaks to Moses. It symbolizes His presence — the encounter with a higher force. A light that serves as a beacon in the desert, entrusted with a mission.</em>
+</p>
+
+
+
+
 
 
 ### D.3. Musical References
@@ -128,9 +139,9 @@ WIP
 
 - [5] [*Shelter for Roman Ruin* — divisare.com](https://divisare.com/projects/397572-peter-zumthor-august-fischer-shelter-for-roman-ruins)
 
-
 - [6] [*Yung Beef unleashes the demons at Primavera Sound* — elperiodico.com](https://www.elperiodico.com/es/ocio-y-cultura/20180531/cronica-yung-beef-primavera-sound-6849964)
 
+- [7] [*The Prince of Egypt* — imdb.com](https://www.imdb.com/es-es/title/tt0120794/)
 ---
 
 ## Acknowledgements
